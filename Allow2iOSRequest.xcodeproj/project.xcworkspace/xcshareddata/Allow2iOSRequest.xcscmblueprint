@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C24929374EF0755E6A533FD2B0BB3CF916E24895",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C24929374EF0755E6A533FD2B0BB3CF916E24895" : 9223372036854775807,
+    "31F61D37FA0E05F17C9C09F96F652B8EC64779B9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0D3952C9-79B0-4604-8B7F-811E5047AE5E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C24929374EF0755E6A533FD2B0BB3CF916E24895" : "Allow2iOSRequest\/",
+    "31F61D37FA0E05F17C9C09F96F652B8EC64779B9" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Allow2iOSRequest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Allow2iOSRequest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitbucket-a2:Allow2CEO\/browser-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "31F61D37FA0E05F17C9C09F96F652B8EC64779B9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Allow2\/Allow2iOSRequest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C24929374EF0755E6A533FD2B0BB3CF916E24895"
+    }
+  ]
+}
